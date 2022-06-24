@@ -1,0 +1,15 @@
+body{
+    padding: 4px;
+}
+.row{
+    background: rgb(1, 0, 14);
+}
+footer {
+    color: #fefefe;
+    font-size: 14px;
+    display: flex;
+    text-align: center;
+    box-shadow: 2px -2px 5px #999;
+    flex-direction: column;
+    padding: 4px;
+}

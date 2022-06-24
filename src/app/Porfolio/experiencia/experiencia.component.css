@@ -1,0 +1,27 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color:rgb(1, 0, 14);
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+li h2, h3{
+    font-weight: bold;
+    display: inline;
+    color: white;
+    text-align: left;
+    font-size: 30px;
+   
+}
+p{
+    text-align: left;
+    color: whitesmoke;
+    font-size: 12px;
+}
+ul{
+    color: white;
+}
